@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="line1">Enter Weight(in Kg):</string>
+    <string name="line2">Enter Height(in meter):</string>
+</resources>
